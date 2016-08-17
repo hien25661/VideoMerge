@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/animator/card_flip_right_out.xml",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/animator/card_flip_right_out.xml"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/animator/card_flip_left_out.xml",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/animator/card_flip_left_out.xml"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/animator/card_flip_left_in.xml",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/animator/card_flip_left_in.xml"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/animator/card_flip_right_in.xml",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/animator/card_flip_right_in.xml"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/animator/slide_down.xml",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/animator/slide_down.xml"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/animator/slide_up.xml",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/animator/slide_up.xml"
+    }
+]

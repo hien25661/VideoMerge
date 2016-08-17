@@ -1,0 +1,542 @@
+[
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color04.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color04.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color17.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color17.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_selectmedia_off.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_selectmedia_off.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_selectmedia_on.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_selectmedia_on.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_select_upload_file_on.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_select_upload_file_on.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_lock_on.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/btn_lock_on.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/txt_13.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/txt_13.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_unlock_prize.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_unlock_prize.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_addtext_on.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_addtext_on.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_selectframe_on.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_selectframe_on.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color28.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color28.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/unlock_explain_image.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/unlock_explain_image.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/txt_07.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/txt_07.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bar_1.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/bar_1.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_rotate.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_rotate.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/transparent_something.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/transparent_something.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color03.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color03.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color18.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color18.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lock_explain_image.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/lock_explain_image.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_scale.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_scale.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color14.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color14.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lock_off_thumb.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/lock_off_thumb.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/facebook_topbar.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/facebook_topbar.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_button_grey_normal.9.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/com_facebook_button_grey_normal.9.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/text_01.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/text_01.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/textcolor_off.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/textcolor_off.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/txt_08.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/txt_08.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/window_4.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/window_4.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_button_blue_focused.9.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_lockok_on.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_lockok_on.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_addtext_off.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_addtext_off.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_upload_on.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/btn_upload_on.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_back.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_back.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/textcolor_on.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/textcolor_on.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/loading.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/loading.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/end_icon.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/end_icon.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_lock_off.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/btn_lock_off.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color09.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color09.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_share_on.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_share_on.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bar_3.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/bar_3.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/txt_16.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/txt_16.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color20.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color20.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_imagechange.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_imagechange.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_03.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/icon_03.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/facebook_post.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/facebook_post.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_close.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/skip_btn.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/skip_btn.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/window_7.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/window_7.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/txt_11.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/txt_11.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color07.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color07.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color22.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color22.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color26.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color26.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_logo.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/com_facebook_logo.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lock_on.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/lock_on.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_sk_on.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_sk_on.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bar_2.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/bar_2.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color24.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color24.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_save_off.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_save_off.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_button_blue_normal.9.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_add_frame.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_add_frame.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/window_6.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/window_6.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_sel_on.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/icon_sel_on.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color05.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color05.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color27.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color27.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/window_1.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/window_1.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/play_off.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/play_off.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launchergreen.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_launchergreen.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/backcolor_off.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/backcolor_off.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_list_off.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/btn_list_off.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color23.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color23.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_button_blue_pressed.9.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/com_facebook_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/start_icon.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/start_icon.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_09.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/icon_09.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_complete.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_complete.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_sk_off.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_sk_off.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_save_on.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_save_on.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bar_4.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/bar_4.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color21.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color21.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/edge.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/edge.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/txt_14.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/txt_14.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/window_5.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/window_5.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/window_8.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/window_8.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/banner.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/banner.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color32.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color32.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/txt_15.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/txt_15.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color10.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color10.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_select_upload_file_off.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_select_upload_file_off.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_inverse_icon.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/com_facebook_inverse_icon.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/txt_12.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/txt_12.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_site_off.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_site_off.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_site_on.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_site_on.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color06.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color06.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color12.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color12.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lock_explain.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/lock_explain.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_sel_off.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/icon_sel_off.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color11.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color11.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_selectframe_off.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_selectframe_off.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/unlock_explain.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/unlock_explain.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color13.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color13.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_upload.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_upload.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_picker_magnifier.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/com_facebook_picker_magnifier.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_list_on.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/btn_list_on.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_new_img.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_new_img.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_lock.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_lock.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color31.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color31.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color25.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color25.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/v40s.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/v40s.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color30.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color30.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color29.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color29.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cursor.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/cursor.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pagination_indicator_active.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/pagination_indicator_active.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/txt_10.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/txt_10.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color01.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color01.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/play_on.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/play_on.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_button_grey_pressed.9.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/com_facebook_button_grey_pressed.9.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lock_off.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/lock_off.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/window_2.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/window_2.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_remove.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_remove.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color16.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color16.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/launchapp.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/launchapp.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_upload_off.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/btn_upload_off.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/facebook_cancel.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/facebook_cancel.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/splash_text.9.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/splash_text.9.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/backcolor_on.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/backcolor_on.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color02.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color02.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_new.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_new.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_list.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_list.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color19.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color19.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_lockok_off.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_lockok_off.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color15.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color15.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color08.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/color08.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pagination_indicator_normal.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/pagination_indicator_normal.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_share_off.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/ic_share_off.png"
+    },
+    {
+        "merged": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/com_facebook_button_grey_focused.9.png",
+        "source": "/Users/NewBie/videoMerge/DragonMergePlayer_gradle/app/src/main/res/drawable-hdpi/com_facebook_button_grey_focused.9.png"
+    }
+]

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1.0dip"
+        android:background="#ffffffff" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="70.0dip"
+        android:background="@drawable/top_bar_bg"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingBottom="10.0dip"
+        android:weightSum="10.0">
+
+        <LinearLayout
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="10.0dip"
+            android:layout_weight="2.5"
+            android:gravity="bottom|right|center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textArtist"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:text="Artist"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textColor="#ffffffff"
+                android:textSize="20.0dip" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.0dip"
+                android:background="#ffffffff" />
+
+            <TextView
+                android:id="@+id/textTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="23.0dip"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:text="Title"
+                android:textColor="#ffffffff"
+                android:textSize="18.0dip" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="7.5"
+            android:gravity="right|center"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/preview"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:gravity="bottom|center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textPreview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="4.0dip"
+                    android:layout_marginRight="4.0dip"
+                    android:ellipsize="end"
+                    android:singleLine="true"
+                    android:text="Preview"
+                    android:textColor="#ffffffff"
+                    android:textSize="16.0dip" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1.0dip"
+                    android:background="#ffffffff" />
+
+                <ImageView
+                    android:id="@+id/button_play"
+                    android:layout_width="23.0dip"
+                    android:layout_height="23.0dip"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/play_preview_btn" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/start"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:gravity="bottom|center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textStartTime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="4.0dip"
+                    android:layout_marginRight="4.0dip"
+                    android:ellipsize="end"
+                    android:singleLine="true"
+                    android:text="Start time"
+                    android:textColor="#ffffffff"
+                    android:textSize="16.0dip" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1.0dip"
+                    android:background="#ffffffff" />
+
+                <TextView
+                    android:id="@+id/textStart"
+                    android:layout_width="wrap_content"
+                    android:layout_height="23.0dip"
+                    android:ellipsize="end"
+                    android:singleLine="true"
+                    android:text="00:00"
+                    android:textColor="#ffffffff"
+                    android:textSize="18.0dip" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/end"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:gravity="bottom|center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textEndTime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="4.0dip"
+                    android:layout_marginRight="4.0dip"
+                    android:ellipsize="end"
+                    android:singleLine="true"
+                    android:text="End time"
+                    android:textColor="#ffffffff"
+                    android:textSize="16.0dip" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1.0dip"
+                    android:background="#ffffffff" />
+
+                <TextView
+                    android:id="@+id/textEnd"
+                    android:layout_width="wrap_content"
+                    android:layout_height="23.0dip"
+                    android:ellipsize="end"
+                    android:singleLine="true"
+                    android:text="00:00"
+                    android:textColor="#ffffffff"
+                    android:textSize="18.0dip" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/middle_bar_bg"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingBottom="14.0dip"
+        android:paddingTop="14.0dip"
+        android:weightSum="10.0">
+
+        <TextView
+            android:id="@+id/textS"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5.0dip"
+            android:text="00:00"
+            android:textColor="#ffffffff" />
+
+        <com.dragonplayer.merge.utils.RangeSeekBar
+            android:id="@+id/rangeSeekBar1"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="9.0" />
+
+        <TextView
+            android:id="@+id/textE"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5.0dip"
+            android:text="00:00"
+            android:textColor="#ffffffff" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1.0dip"
+        android:background="#ffffffff" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bottom_bar_bg"
+        android:gravity="center"
+        android:paddingBottom="10.0dip"
+        android:paddingTop="10.0dip"
+        android:weightSum="10.0">
+
+        <LinearLayout
+            android:id="@+id/cancel"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="5.0"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:scaleType="fitCenter"
+                android:src="@drawable/cancel_icon" />
+
+            <TextView
+                android:id="@+id/textCancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cancel"
+                android:textColor="#ffffffff"
+                android:textSize="21.0dip" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="2.0dip"
+            android:layout_height="30.0dip"
+            android:background="#50000000" />
+
+        <LinearLayout
+            android:id="@+id/ok"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="5.0"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ok_icon" />
+
+            <TextView
+                android:id="@+id/textOk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ok"
+                android:textColor="#ffffffff"
+                android:textSize="21.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

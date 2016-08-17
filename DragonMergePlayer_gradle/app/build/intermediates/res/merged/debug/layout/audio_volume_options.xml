@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:weightSum="10.0">
+
+    <ImageView
+        android:id="@+id/imageVideo"
+        android:layout_width="0.0dip"
+        android:layout_height="wrap_content"
+        android:layout_margin="5.0dip"
+        android:layout_weight="2.0"
+        android:background="@drawable/blue_frame"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ic_launcher" />
+
+    <LinearLayout
+        android:layout_width="0.0dip"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10.0dip"
+        android:layout_marginLeft="5.0dip"
+        android:layout_marginTop="10.0dip"
+        android:layout_weight="7.0"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textAudio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dip"
+            android:layout_marginTop="10.0dip"
+            android:text="TextView" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10.0dip"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/textMinus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingLeft="5.0dip"
+                android:paddingRight="5.0dip"
+                android:text="-"
+                android:textAppearance="?android:textAppearanceLarge"
+                android:textStyle="bold" />
+
+            <SeekBar
+                android:id="@+id/seekBarWidth"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:max="10"
+                android:paddingTop="3.0dip" />
+
+            <TextView
+                android:id="@+id/textPlus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingLeft="5.0dip"
+                android:paddingRight="5.0dip"
+                android:text="+"
+                android:textAppearance="?android:textAppearanceLarge" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageMove"
+        android:layout_width="0.0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:src="@drawable/lines"
+        android:visibility="gone" />
+</LinearLayout>

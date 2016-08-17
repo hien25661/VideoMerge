@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="menu_icons">
+        <item>@drawable/frames_icon</item>
+        <item>@drawable/select_icon</item>
+        <item>@drawable/borders_icon</item>
+        <item>@drawable/finish_icon</item>
+        <!-- <item>@drawable/settings_icon</item> -->
+    </array>
+    <string-array name="menus">
+        <item>@string/frames</item>
+        <item>@string/select</item>
+        <item>@string/borders</item>
+        <item>@string/finish</item>
+        <!-- <item>@string/settings</item> -->
+    </string-array>
+    <string-array name="settings">
+        <item>@string/facebook_list</item>
+        <item>@string/twitter_list</item>
+        <item>@string/instagram_list</item>
+        <item>@string/rate_list</item>
+        <item>@string/contact_lis</item>
+        <item>@string/more_apps_list</item>
+        <item>@string/share_list</item>
+        <item>@string/help_list</item>
+    </string-array>
+    <array name="settings_icons">
+        <item>@drawable/facebook_list_icon</item>
+        <item>@drawable/twitter_list_icon</item>
+        <item>@drawable/instagram_list_icon</item>
+        <item>@drawable/rate_us_list_icon</item>
+        <item>@drawable/contact_us_list_icon</item>
+        <item>@drawable/more_apps_list_icon</item>
+        <item>@drawable/share_list_icon</item>
+        <item>@drawable/help_list_icon</item>
+    </array>
+    <attr format="reference" name="fragmentCloseEnterAnimation"/>
+    <attr format="reference" name="fragmentCloseExitAnimation"/>
+    <attr format="reference" name="fragmentFadeEnterAnimation"/>
+    <attr format="reference" name="fragmentFadeExitAnimation"/>
+    <attr format="reference" name="fragmentOpenEnterAnimation"/>
+    <attr format="reference" name="fragmentOpenExitAnimation"/>
+    <bool name="appirator_test_mode">false</bool>
+    <bool name="ga_autoActivityTracking">true</bool>
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+    <color name="appirator_button_end_color">#ff2f6699</color>
+    <color name="appirator_button_start_color">#ff449def</color>
+    <color name="appirator_button_text_color">#ffffffff</color>
+    <color name="color_blue">#ff156eac</color>
+    <color name="color_select">#FFED7F8D</color>
+    <color name="color_unselect">#060f33</color>
+    <color name="com_facebook_blue">#ff3b5998</color>
+    <color name="com_facebook_loginview_text_color">#ffffffff</color>
+    <color name="com_facebook_picker_search_bar_background">#fff5f5f7</color>
+    <color name="com_facebook_picker_search_bar_text">#ffbcbdc2</color>
+    <color name="com_facebook_usersettingsfragment_connected_shadow_color">#ff000000</color>
+    <color name="com_facebook_usersettingsfragment_connected_text_color">#ffffffff</color>
+    <color name="com_facebook_usersettingsfragment_not_connected_text_color">#ffa6aed7</color>
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <dimen name="bar_length">240.0dip</dimen>
+    <dimen name="bar_pointer_halo_radius">14.0dip</dimen>
+    <dimen name="bar_pointer_radius">6.0dip</dimen>
+    <dimen name="bar_thickness">4.0dip</dimen>
+    <dimen name="color_center_halo_radius">60.0dip</dimen>
+    <dimen name="color_center_radius">54.0dip</dimen>
+    <dimen name="color_pointer_halo_radius">18.0dip</dimen>
+    <dimen name="color_pointer_radius">14.0dip</dimen>
+    <dimen name="color_wheel_radius">124.0dip</dimen>
+    <dimen name="color_wheel_thickness">8.0dip</dimen>
+    <dimen name="com_facebook_loginview_compound_drawable_padding">12.0dip</dimen>
+    <dimen name="com_facebook_loginview_padding_bottom">12.0dip</dimen>
+    <dimen name="com_facebook_loginview_padding_left">12.0dip</dimen>
+    <dimen name="com_facebook_loginview_padding_right">16.0dip</dimen>
+    <dimen name="com_facebook_loginview_padding_top">12.0dip</dimen>
+    <dimen name="com_facebook_loginview_text_size">16.0sp</dimen>
+    <dimen name="com_facebook_picker_place_image_size">64.0dip</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_large">180.0dip</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_normal">100.0dip</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_small">50.0dip</dimen>
+    <dimen name="com_facebook_usersettingsfragment_profile_picture_height">64.0dip</dimen>
+    <dimen name="com_facebook_usersettingsfragment_profile_picture_width">64.0dip</dimen>
+    <item name="com_facebook_picker_default_separator_color" type="drawable">#33464c59</item>
+    <item name="action_settings" type="id">false</item>
+    <item name="addview" type="id">false</item>
+    <item name="audio_cutter" type="id">false</item>
+    <item name="audio_options" type="id">false</item>
+    <item name="bottom" type="id">false</item>
+    <item name="buttonCancel" type="id">false</item>
+    <item name="buttonDownload" type="id">false</item>
+    <item name="buttonGetStarted" type="id">false</item>
+    <item name="buttonPlayPause" type="id">false</item>
+    <item name="buttonPost" type="id">false</item>
+    <item name="buttonSkip" type="id">false</item>
+    <item name="button_play" type="id">false</item>
+    <item name="cancel" type="id">false</item>
+    <item name="colorPicker" type="id">false</item>
+    <item name="com_facebook_login_activity_progress_bar" type="id">false</item>
+    <item name="com_facebook_picker_activity_circle" type="id">false</item>
+    <item name="com_facebook_picker_checkbox" type="id">false</item>
+    <item name="com_facebook_picker_checkbox_stub" type="id">false</item>
+    <item name="com_facebook_picker_divider" type="id">false</item>
+    <item name="com_facebook_picker_done_button" type="id">false</item>
+    <item name="com_facebook_picker_image" type="id">false</item>
+    <item name="com_facebook_picker_list_section_header" type="id">false</item>
+    <item name="com_facebook_picker_list_view" type="id">false</item>
+    <item name="com_facebook_picker_profile_pic_stub" type="id">false</item>
+    <item name="com_facebook_picker_row_activity_circle" type="id">false</item>
+    <item name="com_facebook_picker_search_text" type="id">false</item>
+    <item name="com_facebook_picker_title" type="id">false</item>
+    <item name="com_facebook_picker_title_bar" type="id">false</item>
+    <item name="com_facebook_picker_title_bar_stub" type="id">false</item>
+    <item name="com_facebook_picker_top_bar" type="id">false</item>
+    <item name="com_facebook_search_bar_view" type="id">false</item>
+    <item name="com_facebook_usersettingsfragment_login_button" type="id">false</item>
+    <item name="com_facebook_usersettingsfragment_logo_image" type="id">false</item>
+    <item name="com_facebook_usersettingsfragment_profile_name" type="id">false</item>
+    <item name="content_frame" type="id">false</item>
+    <item name="drawer_layout" type="id">false</item>
+    <item name="email" type="id">false</item>
+    <item name="end" type="id">false</item>
+    <item name="facebook" type="id">false</item>
+    <item name="frameHolder" type="id">false</item>
+    <item name="gridFrames" type="id">false</item>
+    <item name="hate" type="id">false</item>
+    <item name="hi" type="id">false</item>
+    <item name="icon" type="id">false</item>
+    <item name="imageLogo" type="id">false</item>
+    <item name="imageMove" type="id">false</item>
+    <item name="imageSetting" type="id">false</item>
+    <item name="imageVideo" type="id">false</item>
+    <item name="imageView2" type="id">false</item>
+    <item name="imageView3" type="id">false</item>
+    <item name="imageView4" type="id">false</item>
+    <item name="instagram" type="id">false</item>
+    <item name="left_drawer" type="id">false</item>
+    <item name="linearLayout1" type="id">false</item>
+    <item name="love" type="id">false</item>
+    <item name="love_message" type="id">false</item>
+    <item name="main" type="id">false</item>
+    <item name="maybe" type="id">false</item>
+    <item name="message" type="id">false</item>
+    <item name="moreAppsList" type="id">false</item>
+    <item name="musicSuggestion" type="id">false</item>
+    <item name="music_picker_layout" type="id">false</item>
+    <item name="name" type="id">false</item>
+    <item name="no_thanks" type="id">false</item>
+    <item name="not_now" type="id">false</item>
+    <item name="ok" type="id">false</item>
+    <item name="override" type="id">false</item>
+    <item name="overrideSwitch" type="id">false</item>
+    <item name="page0" type="id">false</item>
+    <item name="page1" type="id">false</item>
+    <item name="page2" type="id">false</item>
+    <item name="page3" type="id">false</item>
+    <item name="page4" type="id">false</item>
+    <item name="pageIndexer" type="id">false</item>
+    <item name="picker" type="id">false</item>
+    <item name="picker_subtitle" type="id">false</item>
+    <item name="preview" type="id">false</item>
+    <item name="radioGroup1" type="id">false</item>
+    <item name="rangeSeekBar1" type="id">false</item>
+    <item name="recordVideo" type="id">false</item>
+    <item name="saturationbar" type="id">false</item>
+    <item name="save" type="id">false</item>
+    <item name="seekBarWidth" type="id">false</item>
+    <item name="seekTrackVolume" type="id">false</item>
+    <item name="selectPhoto" type="id">false</item>
+    <item name="selectTrack" type="id">false</item>
+    <item name="selectVideo" type="id">false</item>
+    <item name="selectedTrack" type="id">false</item>
+    <item name="send" type="id">false</item>
+    <item name="send_us" type="id">false</item>
+    <item name="settings" type="id">false</item>
+    <item name="settingsList" type="id">false</item>
+    <item name="shareImage" type="id">false</item>
+    <item name="shareText" type="id">false</item>
+    <item name="simSwitch" type="id">false</item>
+    <item name="start" type="id">false</item>
+    <item name="subtitle" type="id">false</item>
+    <item name="sure" type="id">false</item>
+    <item name="svbar" type="id">false</item>
+    <item name="takePhoto" type="id">false</item>
+    <item name="textArtist" type="id">false</item>
+    <item name="textAudio" type="id">false</item>
+    <item name="textCancel" type="id">false</item>
+    <item name="textE" type="id">false</item>
+    <item name="textEnd" type="id">false</item>
+    <item name="textEndTime" type="id">false</item>
+    <item name="textMinus" type="id">false</item>
+    <item name="textOk" type="id">false</item>
+    <item name="textPlus" type="id">false</item>
+    <item name="textPreview" type="id">false</item>
+    <item name="textS" type="id">false</item>
+    <item name="textSetting" type="id">false</item>
+    <item name="textStart" type="id">false</item>
+    <item name="textStartTime" type="id">false</item>
+    <item name="textTip" type="id">false</item>
+    <item name="textTitle" type="id">false</item>
+    <item name="textView1" type="id">false</item>
+    <item name="textView2" type="id">false</item>
+    <item name="textView3" type="id">false</item>
+    <item name="textView4" type="id">false</item>
+    <item name="top" type="id">false</item>
+    <item name="topbar" type="id">false</item>
+    <item name="twitter" type="id">false</item>
+    <item name="upgrade" type="id">false</item>
+    <item name="videoDuration" type="id">false</item>
+    <item name="videoDurationLayout" type="id">false</item>
+    <item name="view1" type="id">false</item>
+    <item name="viewPager" type="id">false</item>
+    <item name="your_opinion" type="id">false</item>
+    <integer name="appirator_days_before_reminding">0</integer>
+    <integer name="appirator_days_until_prompt">2</integer>
+    <integer name="appirator_launches_until_prompt">2</integer>
+    <string name="FACEBOOK_APP_ID">506105876149553</string>
+    <string name="PREFS">prefs</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_track">Add your track</string>
+    <string name="addaudio">Select Sound</string>
+    <string name="app_id">772200969511948</string>
+    <string name="app_name">DragonMergePlayer</string>
+    <string name="appirator_app_title">@string/app_name</string>
+    <string name="appirator_market_url">market://details?id=%s</string>
+    <string name="borders">Borders</string>
+    <string name="borders_size">Border size</string>
+    <string name="button_facebook_post">Post on Facebook</string>
+    <string name="button_facebook_post_image">Post image on Facebook</string>
+    <string name="button_share_facebook">Share on Facebook</string>
+    <string name="button_share_twitter">Share on Twitter</string>
+    <string name="button_twitter_post">Post on Twitter</string>
+    <string name="color_picker">Color picker</string>
+    <string name="com_facebook_choose_friends">Choose Friends</string>
+    <string name="com_facebook_dialogloginactivity_ok_button">OK</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_logo_content_description">Facebook Logo</string>
+    <string name="com_facebook_nearby">Nearby</string>
+    <string name="com_facebook_picker_done_button_text">Done</string>
+    <string name="com_facebook_placepicker_subtitle_catetory_only_format">%1$s</string>
+    <string name="com_facebook_placepicker_subtitle_format">%1$s • %2$,d were here</string>
+    <string name="com_facebook_placepicker_subtitle_were_here_only_format">%1$,d were here</string>
+    <string name="com_facebook_requesterror_password_changed">Your Facebook password has changed. Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_permissions">This app doesn’t have permission to do this. To change permissions, try logging into the app again.</string>
+    <string name="com_facebook_requesterror_reconnect">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_relogin">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_web_login">Your Facebook account is locked. Please log into www.facebook.com to continue.</string>
+    <string name="com_facebook_usersettingsfragment_log_in_button">Log in…</string>
+    <string name="com_facebook_usersettingsfragment_logged_in">Logged in</string>
+    <string name="com_facebook_usersettingsfragment_not_logged_in">Not logged in</string>
+    <string name="contact_lis">Contact us</string>
+    <string name="dialog_message">In free version of #DragonMergePlayer you can add only one video to your frames. If you want to add more than one video please click Upgrade button below</string>
+    <string name="dialog_title">Free Version</string>
+    <string name="email">email</string>
+    <string name="facebook">facebook</string>
+    <string name="facebook_list">Like us on Facebook</string>
+    <string name="facebook_logged_out">You are logged out</string>
+    <string name="facebook_post_published">Posted to Facebook successfully</string>
+    <string name="facebook_post_publishing_failed">Post publishing was failed</string>
+    <string name="finish">More information</string>
+    <string name="frames">Collage list</string>
+    <string name="ga_trackingId">UA-46944735-2</string>
+    <string name="gif_warning">DragonMergePlayer has detected that you have added an animated GIF. The output will be video. You may edit the length of your animated GIF video under video settings. Having a video length that is longer than the animated GIF will automatically loop the animated GIF until the video is over.</string>
+    <string name="hate_it">Hate it!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="help_list">Help</string>
+    <string name="hi_there">Hi, there!</string>
+    <string name="home_screen">Home</string>
+    <string name="instagram">instagram</string>
+    <string name="instagram_list">Follow us on Istagram</string>
+    <string name="its_ok">"it's OK"</string>
+    <string name="lightness">Lightness</string>
+    <string name="loading">application loading…</string>
+    <string name="lock">Unlock template description</string>
+    <string name="lockconfirm">Unlocked version successfully</string>
+    <string name="lockregister">Verification</string>
+    <string name="love_it">Love it!</string>
+    <string name="love_message">"Your love makes us work harder!
+Please support us by reviewing our app! Thanks!"</string>
+    <string name="main_menu_text">Main Menu</string>
+    <string name="maybe">Maybe Later</string>
+    <string name="menu_logout">Logout</string>
+    <string name="more_apps_list">More apps</string>
+    <string name="music_suggestion">!!! Use Google Play Music for best results !!!</string>
+    <string name="no_frame_selected">No frame selected. You can do so in \"frames\" tab</string>
+    <string name="no_thanks">No, Thanks</string>
+    <string name="not_now">Not now</string>
+    <string name="opinion_message">We love our users! We want to work hard to make you happy! Please send us feedback so we can help make %s better!</string>
+    <string name="override_video_lenght">Set custom video length (Note: Having a video length that is longer than the animated GIF will automatically loop the animated GIF until the video is over.)</string>
+    <string name="play_video_siquentially">Play video sequentially</string>
+    <string name="rate_list">Rate our app</string>
+    <string name="rate_message">Do you love %s ?</string>
+    <string name="record_video">record video</string>
+    <string name="saturation">Saturation</string>
+    <string name="save">save</string>
+    <string name="seconds_text">seconds</string>
+    <string name="select">Collage Maker</string>
+    <string name="select_photo">select photo</string>
+    <string name="select_video">select video</string>
+    <string name="send">Send Feedback!</string>
+    <string name="send_us">Send use some love!</string>
+    <string name="settings">Settings</string>
+    <string name="share_list">Share</string>
+    <string name="share_message_title">Message</string>
+    <string name="sure">Sure!</string>
+    <string name="take_photo">take photo</string>
+    <string name="toast_facebook_auth_fail">Error was occurred during Facebook authentication</string>
+    <string name="toast_facebook_auth_success">Facebook authentication is successful</string>
+    <string name="toast_twitter_auth_fail">Error was occurred during Twitter authentication</string>
+    <string name="toast_twitter_auth_success">Twitter authentication is successful</string>
+    <string name="twitter">twitter</string>
+    <string name="twitter_list">Follow us on Twitter</string>
+    <string name="twitter_logged_out">You are logged out</string>
+    <string name="twitter_post_published">Tweeted successfully</string>
+    <string name="twitter_post_publishing_failed">Tweet failed</string>
+    <string name="upload">Introduce Sweepstakes</string>
+    <string name="upload_alertdialog_no">Disagree</string>
+    <string name="upload_alertdialog_yes">Agree</string>
+    <string name="uploadconfirm">Participate in the activities detail</string>
+    <string name="uploadinfo">Fill in your profile</string>
+    <string name="uploadmedia">Collage list</string>
+    <string name="uploadmessage">【個資聲明】 \n 依個人資料保護法，參加本活動者視為暸解及同意於抽獎及行銷活動之需要進行蒐集、處理及利用其個人資料(限姓名、電話、身分證，以利通知獲獎資訊)。參加者如欲閱覽、變更、刪除個資或要求停止蒐集、處理及利用個人資料，請通知要求辦理。請務必詳細閱讀個人資料告知暨同意書內容。當您確定參加本活動， 視同您已了解活動規則並同意提供資料予主辦單位。 \n \n 【個人資料告知暨同意書】 \n 新光人壽(下稱本公司)因舉辦公共關係活動而蒐集、處理或利用個人資料時，皆以尊重您的權益為基礎，並以誠實信用之方式及以下原則為之。 \n \n 本公司蒐集您的個人資料目的係為配合本次活動需要，以便審核確定參加資格及相關活動辦法之權利。本公司僅會要求您提供為公共關係活動作業執行之必要(例如姓名、電話、身份證字號表單所列項目等)的個人資料，該資料只會在執行活動業務所必須及經您同意之期間被處理或利用。您提供的個人資料僅會以電子檔或紙本形式於我國境內、外供本公司、外部服務提供廠商處理及利用，若您需要更進一步了解您的個人資料之處理或利用的詳細情形，歡迎您與我們聯繫。 \n \n 本公司對於蒐集、處理或利用任何之個人資料皆以遵循本公司之個人資料管理目標與政策為指導原則，並訂有完善之個人資料保護安全維護計畫，任何流程皆有嚴格之控管程序及標準作業流程，因此您可以安心的將您的個人資料提供予本公司。 \n \n 本公司保有您的個人資料時，基於我國個人資料保護法之規定，您可以依法行使下述的權利: \n \n 查詢或請求閱覽您的個人資料。\n 請求製給您的個人資料複製本。 \n 請求補充或更正您的個人資料。 \n 請求停止蒐集、處理或利用您的個人資料。 \n 請求刪除您的個人資料。\n \n 您欲行使上述提及之相關權利時，請洽本次活動經辦單位受理您的請求，您可以洽詢新光人壽公共事務部服務專線02-23895858 #2126、#2124，而提出您的請求。\n \n 本公司基於上述原因而需蒐集、處理或利用您的個人資料時，您可以自由選擇是否提供您的個人資料。 \n \n 若您有提供您以外之人的個人資料時，您同意並了解負有確實告知該第三人有關本聲明事項之所有內容且取得其同意之責任。\n  \n 若您拒絕提供相關個人資料或所留存資料不全、錯誤或無法辨識，本次活動將無法進行必要之審核及處理作業，致無法提供相關服務。 \n \n 本個人資料保護告知事項之內容，如因法令或情事變更而有更易必要，本公司有權隨時修改告知事項之內容，並將更新內容於網站上公告。
+  	</string>
+    <string name="use">Use</string>
+    <string name="video_duration">Video duration</string>
+    <string name="your_opinion">Your opinion matters!</string>
+    <style name="AppBaseTheme" parent="@*android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+    <style name="CustomDialog" parent="@android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item> 
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="DialogTheme" parent="@*android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowAnimationStyle">@*android:style/Animation.Dialog</item>
+    </style>
+    <style name="MyActionBar" parent="@*android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@drawable/action_bar_bg</item>
+        <item name="android:titleTextStyle">@style/MyTheme.ActionBar.TitleTextStyle</item>
+        <item name="android:backgroundSplit">@drawable/insta_ribon</item>
+    </style>
+    <style name="MyTheme.ActionBar.TitleTextStyle" parent="@*android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@*android:color/white</item>
+    </style>
+    <style name="appiratorButton" parent="@*android:style/Widget.Button">
+        <item name="android:textColor">@color/appirator_button_text_color</item>
+        <item name="android:background">@drawable/button_appirator</item>
+    </style>
+    <style name="com_facebook_loginview_default_style" parent="@*android:style/Widget.Button">
+        <item name="android:textSize">@dimen/com_facebook_loginview_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/com_facebook_loginview_text_color</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/com_facebook_button_blue</item>
+        <item name="android:paddingLeft">@dimen/com_facebook_loginview_padding_left</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="com_facebook_loginview_silver_style" parent="@*android:style/Widget.Button">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff4b5164</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/com_facebook_loginbutton_silver</item>
+        <item name="android:height">44.0dip</item>
+        <item name="android:width">205.0dip</item>
+    </style>
+</resources>
